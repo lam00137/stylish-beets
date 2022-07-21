@@ -25,9 +25,11 @@ dt {
 img {
   width: 100%;
 }
+
 .serving {
   font-style: italic;
 }
+
 a {
   color: #8f2440;
   text-decoration: none;
@@ -51,9 +53,6 @@ h1, h2 {
 
 h3 {
   font-size: 1.125rem;
-}
-
-ol {
 }
 
 nav > ol {
