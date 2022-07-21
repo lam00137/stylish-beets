@@ -52,7 +52,8 @@ h1, h2 {
   color: #3f1622;
 }
 
-h3 {
+main figure + p {
+  font-weight: bold;
   font-size: 1.125rem;
 }
 
